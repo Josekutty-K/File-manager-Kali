@@ -42,3 +42,8 @@ Additional Notes:
 When deleting an item, be extremely cautious as it cannot be easily recovered.
 This script is intended for learning purposes and might not be suitable for complex file management tasks.
 Always back up important data before using any script that modifies files.
+
+Author:
+
+Josekutty Kunnelthazhe Binu
+https://www.linkedin.com/in/josekutty-kunnelthazhe-binu-9b484429b/
